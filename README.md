@@ -1,5 +1,5 @@
 # Goxium
-System-wise browser fingerprint hiding utility written in Go
+System-wide browser fingerprint hiding utility written in Go
 
 ## Build
 
