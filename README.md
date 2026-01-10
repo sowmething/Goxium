@@ -114,7 +114,7 @@ It operates as a **local HTTP/HTTPS proxy** that modifies request headers.
 ### Does Goxium provide anonymity?
 Kinda.  
 Goxium does not hide traffic or bypass network restrictions.  
-Its purpose is to **reduce/fake fingerprinting vectors** by normalizing HTTP headers. This will make malicious sites dont recognise you.
+Its purpose is to **reduce/fake fingerprinting vectors** by normalizing HTTP headers. This will make malicious sites dont recognize you.
 
 ---
 
@@ -171,7 +171,7 @@ Goxium is intended for:
 - Privacy testing
 - Debugging
 
-### Goxium doesnt work expected. What should i do?
+### Goxium doesnt work as expected. What should i do?
 Look at Troubleshooting
 
 Using it in production environments is **not recommended** without thorough testing.
