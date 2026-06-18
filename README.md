@@ -13,7 +13,7 @@ git clone https://github.com/sowmething/Goxium.git
 cd Goxium
 build.bat
 ```
-files will bult to bin folder.
+files will built to bin folder.
 
 ### Option 2: Use prebuilt binaries
 
